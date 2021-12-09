@@ -1,0 +1,29 @@
+{
+  "name": "parastatehackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@craco/craco": "^5.9.0",
+    "@drizzle/store": "^1.5.3",
+    "@openzeppelin/contracts": "^4.4.0",
+    "create-react-hook": "^3.1.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.7.0-alpha.2",
+    "web3-eth": "^1.6.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.8",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  }
+}
